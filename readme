@@ -1,0 +1,59 @@
+README.me
+# 👨‍💻 Halley Victor Cândido
+
+🎯 Estudante do Ensino Médio focado em programação  
+📍 São Paulo – Brasil  
+🚀 Sonho em cursar **Ciência da Computação na USP**  
+🐍 Estudando **Python** como minha linguagem principal  
+📚 Participante da OBI (Olimpíada Brasileira de Informática)
+
+---
+
+## 🧠 Minha jornada como programador (linha do tempo)
+
+Organizei meus projetos para mostrar como fui evoluindo com o tempo:
+
+### 🐣 Primeiros passos
+- 🔹 [hello-python](https://github.com/halleyvictor/hello-python): meu primeiro código, só pra entender o `print()` e a sintaxe básica
+- 🔹 [calculadora-python](https://github.com/halleyvictor/calculadora-python): soma, subtração, multiplicação e divisão com inputs
+
+### 🧠 Lógica e algoritmos iniciais
+- 🔹 [condicoes-e-loops](https://github.com/halleyvictor/condicoes-e-loops): exercícios com `if`, `for`, `while`
+- 🔹 [jogo-adivinhacao](https://github.com/halleyvictor/jogo-adivinhacao): tente adivinhar o número aleatório!
+
+### 🧱 Começando a estruturar projetos
+- 🔹 [gerenciador-tarefas](https://github.com/halleyvictor/gerenciador-tarefas): organiza tarefas com listas e menus interativos
+- 🔹 [cadastro-usuarios](https://github.com/halleyvictor/cadastro-usuarios): simulação de cadastro com validações
+
+### 🕹️ Projetos com mais lógica
+- 🔹 [jogo-da-velha](https://github.com/halleyvictor/jogo-da-velha): clássico, totalmente jogável no terminal
+- 🔹 [simulador-dados](https://github.com/halleyvictor/simulador-dados): rola dados aleatórios com interação
+
+---
+
+## 🔧 Tecnologias e ferramentas
+
+- **Python** (100% focado no momento)
+- **Git & GitHub** para versionamento
+- **VS Code** como editor principal
+
+---
+
+## 🎯 Próximos passos
+
+- Aprender programação orientada a objetos (POO)
+- Resolver desafios mais complexos
+- Criar pequenos jogos e simulações
+- Iniciar HTML, CSS e depois frameworks web em Python (Flask, Django)
+
+---
+
+## 📬 Fale comigo
+
+Por enquanto estou só no GitHub, mas logo terei redes voltadas ao meu portfólio.  
+Sinta-se à vontade para ver meus projetos, dar sugestões ou acompanhar minha evolução.
+
+---
+
+> “O importante não é ser o melhor de todos, mas ser melhor do que você mesmo foi ontem.”  
+> — Halley Victor Cândido
